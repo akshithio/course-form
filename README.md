@@ -12,7 +12,5 @@ You can run it by simply cloning, running `pnpm install` followed by `pnpm dev`.
 
 <br />
 
-<img src="./akshithio/light-logo.png#gh-dark-mode-only" alt="Logo of Boilerexams" width ="24px" align = "left" /> 
-<img src="./akshithio/dark-logo.png#gh-light-mode-only" alt="Logo of Boilerexams" width ="24px" align = "left" /> 
-&nbsp;&nbsp; 1 commit build? - akshithio - 2024
+&nbsp;<img src="./akshithio/light-logo.png#gh-dark-mode-only" alt="Logo of Boilerexams" width ="24px" align = "left" /><img src="./akshithio/dark-logo.png#gh-light-mode-only" alt="Logo of Boilerexams" width ="24px" align = "left" />   1 commit build? - akshithio - dec 2024 
 
