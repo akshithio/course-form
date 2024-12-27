@@ -1,4 +1,8 @@
-# Course Form - Boilerexams
+# Course Form - Boilerexams Frontend Application
+
+🔨: You can run it by simply cloning, running `pnpm install` followed by `pnpm dev`. Built primarily with Next, Typescript & Tailwind.
+
+***
 
 Hey, if you're viewing this and not from the Boilerexams team, this was something I developed as a part of my interview process to join the team as a front-end engineer. wish me luck? 🤞
 
@@ -8,9 +12,6 @@ The platform cooperates with professors to gain access to past exams and other m
 
 ![Preview image of what I built. A course form with a module on the right side showing how the screen would look like on the actual website](./akshithio/current-preview.png)
 
-You can run it by simply cloning, running `pnpm install` followed by `pnpm dev`. Built primarily with Next, Typescript & Tailwind.
-
 <br />
 
 &nbsp;<img src="./akshithio/light-logo.png#gh-dark-mode-only" alt="Logo of Boilerexams" width ="24px" align = "left" /><img src="./akshithio/dark-logo.png#gh-light-mode-only" alt="Logo of Boilerexams" width ="24px" align = "left" />   1 commit build? - akshithio - dec 2024 
-
